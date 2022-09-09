@@ -43,7 +43,7 @@ func DetectIntentText(projectID, sessionID, text, languageCode string) (string, 
 }
 
 func main() {
-	var projectID = "ca-emma-334503"
+	var projectID = "xxxxxxxxx"
 	var sessionID = "123456789"
 	var text = "I know English"
 	var languageCode = "en-US"
